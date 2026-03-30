@@ -78,7 +78,3 @@ Possible enhancements for production-level systems:
 -Alejandro Gonzalez
 -Inventory Management System
 ---
-
-## License
-
-This project is for educational purposes.
